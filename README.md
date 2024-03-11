@@ -1,1 +1,1 @@
-# specialized-architectures
+# for project documentation, which should include a description of system requirements, architecture, hardware and software requirements, a detailed description of the program design, test cases, etc.
